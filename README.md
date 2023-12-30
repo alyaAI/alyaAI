@@ -1,7 +1,7 @@
 # Alya AI ![Static Badge](https://img.shields.io/badge/DEC30-blue)
 
 
-<img src="https://files.meocloud.my.id/13:/AI/larasky-ai.png" width="200" align="left">
+<img src="butterfly.jpg" width="200" align="left">
 
 ![Static Badge](https://img.shields.io/badge/CODE-417598?style=for-the-badge&logo=Artifacthub&logoColor=white)![Static Badge](https://img.shields.io/badge/MARCH15-E6526F?style=for-the-badge&logo=Code&logoColor=pink)
 
